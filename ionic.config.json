@@ -1,0 +1,7 @@
+{
+  "name": "geladeira",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
